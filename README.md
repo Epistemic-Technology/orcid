@@ -1,2 +1,1 @@
-# orcid
-Go API client for Orcid
+This is a GO API client for Orcid.
